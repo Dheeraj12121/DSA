@@ -13,4 +13,6 @@ var wordBreak = function(s, wordDict){
     }
 
     return table[table.length - 1];
+
+    // I am
 }
